@@ -1,4 +1,4 @@
-# Write a python program to print the given pattern
+# Queston 3:  Write a python program to print the given pattern
 # *****
 # ****
 # ***
